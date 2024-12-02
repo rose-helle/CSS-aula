@@ -85,3 +85,15 @@ section h2{
 #Economia .articles article a{
     background-color: #ff9f1a;
 }
+#Entretenimento{
+    background-color: #d5b0f7;
+}
+#Entretenimento .articles article a{
+    background-color: #b95cf7;
+}
+#Tecnologia{
+    background-color: #f8aeae;
+}
+#Tecnologia .articles article a{
+    background-color: #fc5959;
+}
